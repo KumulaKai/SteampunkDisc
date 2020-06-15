@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#X#",
+        " # "
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:music_disc_11"
+        },
+        "#": {
+            "item": "minecraft:orange_dye"
+        }
+    },
+    "result": {
+        "item": "steampunkdisc:march_of_the_constructs"
+    }
+}
