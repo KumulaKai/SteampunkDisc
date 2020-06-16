@@ -3,7 +3,7 @@
         "category":  "record",
         "sounds": [
             {
-                "name": "steampunkdisc:music/march_of_the_constructs",
+                "name": "steampunkdisc:march_of_the_constructs",
                 "stream": true
             }
         ]

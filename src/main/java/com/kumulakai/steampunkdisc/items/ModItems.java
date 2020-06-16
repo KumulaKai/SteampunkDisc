@@ -13,7 +13,7 @@ public class ModItems {
 	@SubscribeEvent
 	public static void registerItems(RegistryEvent.Register<Item> event) {
 
-		steampunkdisc = registerItem(new SteampunkDisc("music.march_of_the_constructs"), "march_of_the_constructs");
+		steampunkdisc = registerItem(new SteampunkDisc("march_of_the_constructs"), "march_of_the_constructs");
 
 	}
 
